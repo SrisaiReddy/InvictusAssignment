@@ -26,3 +26,10 @@ https://invictusassignment.netlify.app/
 ![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(1).png)
 ### Userdefined URL Module - Desktop Version
 ![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(2).png)
+
+### Default Module - Mobile Version
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(3).png)
+### Userdefined URL Module - Mobile Version
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(4).png)
+
+
