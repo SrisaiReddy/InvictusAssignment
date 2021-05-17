@@ -6,7 +6,7 @@
 ```
 https://invictusassignment.netlify.app/
 ```
-> and this project is designed to be a responsive site. So, the view of mobile would differ from desktop. Make sure to check both of them.
+> and This Project is designed to be a Responsive Site. So, the view of mobile would differ from desktop. Please make sure to check both of them.
 
 ## Functions
 ### Predefined URL
@@ -20,3 +20,9 @@ https://invictusassignment.netlify.app/
 
 > **_NOTE:_** The URL in Userdefined Module is requested to be of a ReadME file from Github as the Raw ReadME fetch will not contain any complex data to compile.
 ---
+
+## screenshots
+### Default Module - Desktop Version
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshots%20(1).png)
+### Userdefined URL Module - Desktop Version
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshots%20(2).png)
