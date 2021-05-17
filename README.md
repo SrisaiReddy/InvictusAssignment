@@ -1,2 +1,4 @@
-# InvictusAssignment
-This Repository contains the Assignment provided by a Company named Invictus.
+# Invictus Assignment
+# Word Frequency Identification System
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Srisai%20Reddy-red)
+## Functions
