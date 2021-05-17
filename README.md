@@ -1,6 +1,12 @@
 # Invictus Assignment
 # Word Frequency Identification System
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Srisai%20Reddy-red)
+
+> **_NOTE:_** This complete project is deployed via Netlify at 
+```
+https://invictusassignment.netlify.app/
+```
+
 ## Functions
 ### Predefined URL
 - A URL was provided by Invictus which has been considered to be default.
