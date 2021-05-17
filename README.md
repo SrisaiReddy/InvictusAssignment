@@ -6,6 +6,7 @@
 ```
 https://invictusassignment.netlify.app/
 ```
+> and this project is designed to be a responsive site. So, the view of mobile would differ from desktop. Make sure to check both of them.
 
 ## Functions
 ### Predefined URL
