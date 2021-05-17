@@ -23,6 +23,6 @@ https://invictusassignment.netlify.app/
 
 ## screenshots
 ### Default Module - Desktop Version
-![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshots%20(1).png)
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(1).png)
 ### Userdefined URL Module - Desktop Version
-![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshots%20(2).png)
+![homepage snap](https://raw.githubusercontent.com/SrisaiReddy/InvictusAssignment/main/Snapshots/Snapshot%20(2).png)
